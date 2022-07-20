@@ -1,4 +1,5 @@
-Weyland Catering Corp.
+## Weyland Catering Corp. 
+## Co-created with Justin Zetts in pair programming project
 
 You’ve been asked to develop an application for a Catering Vendor, Weyland Corporation.  
 
