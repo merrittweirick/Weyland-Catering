@@ -1,4 +1,4 @@
-# Module 1 Capstone - Catering System Software
+Weyland Catering Corp.
 
 You’ve been asked to develop an application for a Catering Vendor, Weyland Corporation.  
 
